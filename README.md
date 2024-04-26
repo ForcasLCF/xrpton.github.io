@@ -1,1 +1,1 @@
-https://github.com/ForcasLCF/xrpton.github.io/blob/main/xrptoncoin-logo.png
+https://github.com/ForcasLCF/xrpton.github.io/main/xrptoncoin-logo.png
